@@ -1,0 +1,25 @@
+URL: https://authorized-partner.vercel.app/register?step=details
+
+--- HEADINGS ---
+  Complete Your Agent Profile in Steps
+  About your Agency
+
+--- LABELS ---
+  'Name' for=_r_7u_-form-item
+  'Role in Agency' for=_r_7v_-form-item
+  'Email Address' for=_r_80_-form-item
+  'Website' for=_r_81_-form-item
+  'Address' for=_r_82_-form-item
+  'Region of Operation' for=_r_83_-form-item
+
+--- INPUTS / SELECTS / TEXTAREAS ---
+  <input type=text name=agency_name id=_r_7u_-form-item placeholder=Enter Agency Name role=None value='Pramila Agency'>
+  <input type=text name=role_in_agency id=_r_7v_-form-item placeholder=Enter Your Role in Agency role=None value='Manager'>
+  <input type=email name=agency_email id=_r_80_-form-item placeholder=Enter Your Agency Email Address role=None value='pramiladulal383+run10@gmail.com'>
+  <input type=text name=agency_website id=_r_81_-form-item placeholder=Enter Your Agency Website role=None value='www.pramilaagency.com'>
+  <input type=text name=agency_address id=_r_82_-form-item placeholder=Enter Your Agency Address role=None value='Kathmandu, Nepal'>
+
+--- BUTTONS / CHECKBOXES / COMBOBOXES ---
+  <button role=combobox id= aria-checked=None> 'Select Your Region of Operation'
+  <button role=None id= aria-checked=None> 'Back'
+  <button role=None id= aria-checked=None> 'Next'
